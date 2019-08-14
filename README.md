@@ -1,2 +1,1 @@
-# Slide-Puzzle
-This is a slide puzzle made in Java
+When you run the Java program it will ask you for the board size that you want. This is the number of squares on each side of the puzzle. For example a board size of 3 will produce a 3x3 slide puzzle.
